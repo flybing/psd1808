@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 one 
 two
 three
 clear conten
+=======
+this is test commit:first
+>>>>>>> edf50919c39f06a97fac153c9bd4c9ca6a95166c
